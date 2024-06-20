@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\kim\\documents\\unreal projects\\hole\\blackholefactory\\blackholefactory\\source\\blackholefactory\\blackholefactory.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\kim\\documents\\unreal projects\\hole\\blackholefactory\\blackholefactory\\intermediate\\build\\win64\\x64\\blackholefactoryeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\kim\\documents\\unreal projects\\hole\\blackholefactory\\blackholefactory\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\blackholefactory\\definitions.blackholefactory.h",
+            "c:\\users\\kim\\documents\\unreal projects\\hole\\blackholefactory\\blackholefactory\\source\\blackholefactory\\blackholefactory.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-BlackHoleFactory.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Kim\Documents\Unreal Projects\Hole\BlackHoleFactory\BlackHoleFactory\Intermediate\Build\Win64\x64\BlackHoleFactoryEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\Kim\Documents\Unreal Projects\Hole\BlackHoleFactory\BlackHoleFactory\Intermediate\Build\Win64\x64\UnrealEditor\Development\BlackHoleFactory\BlackHoleFactory.cpp.obj"
+"C:\Users\Kim\Documents\Unreal Projects\Hole\BlackHoleFactory\BlackHoleFactory\Intermediate\Build\Win64\x64\UnrealEditor\Development\BlackHoleFactory\Default.rc2.res"
+/OUT:"C:\Users\Kim\Documents\Unreal Projects\Hole\BlackHoleFactory\BlackHoleFactory\Intermediate\Build\Win64\x64\UnrealEditor\Development\BlackHoleFactory\UnrealEditor-BlackHoleFactory.lib"
