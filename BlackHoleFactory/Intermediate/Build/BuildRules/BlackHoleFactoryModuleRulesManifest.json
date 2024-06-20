@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"/Users/yukio/Downloads/BlackHoleFactory/BlackHoleFactory/Source/BlackHoleFactory/BlackHoleFactory.Build.cs",
+		"/Users/yukio/Downloads/BlackHoleFactory/BlackHoleFactory/Source/BlackHoleFactory.Target.cs",
+		"/Users/yukio/Downloads/BlackHoleFactory/BlackHoleFactory/Source/BlackHoleFactoryEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.2"
+}
